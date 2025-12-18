@@ -1,0 +1,87 @@
+:root {
+	--orange-0: #fff4e6;
+	--orange-1: #ffe8cc;
+	--orange-2: #ffd8a8;
+	--orange-3: #ffc078;
+	--orange-4: #ffa94d;
+	--orange-5: #ff922b;
+	--orange-6: #fd7e14;
+	--orange-7: #f76707;
+	--orange-8: #e8590c;
+	--orange-9: #d9480f;
+	--orange-10: #bf400d;
+	--orange-11: #99330b;
+	--orange-12: #802b09;
+
+	--gray-0: #f8f9fa;
+	--gray-1: #f1f3f5;
+	--gray-2: #e9ecef;
+	--gray-3: #dee2e6;
+	--gray-4: #ced4da;
+	--gray-5: #adb5bd;
+	--gray-6: #868e96;
+	--gray-7: #495057;
+	--gray-8: #343a40;
+	--gray-9: #212529;
+	--gray-10: #16191d;
+	--gray-11: #0d0f12;
+	--gray-12: #030507;
+}
+
+body {
+	font-family: "Germania One", sans-serif;
+}
+
+.container {
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+	background-color: var(--gray-0);
+}
+
+header {
+	background-color: var(--orange-4);
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 20px 60px;
+}
+
+header > h1 {
+	font-family: "Caesar Dressing", system-ui;
+	color: var(--gray-8);
+	font-size: 3rem;
+}
+
+nav {
+	display: grid;
+	grid-auto-flow: column;
+	grid-auto-columns: 1fr;
+	gap: 20px;
+}
+
+.nav-button {
+	color: var(--orange-0);
+	border: 0;
+	border-radius: 500px;
+	background-color: var(--gray-8);
+	font-size: 1.5rem;
+	padding: 5px 25px;
+}
+
+.nav-button:hover {
+	background-color: var(--orange-8);
+	cursor: pointer;
+}
+
+.content {
+	flex: 1;
+}
+
+footer {
+	font-size: 1.3rem;
+	text-align: center;
+	color: var(--gray-0);
+	background-color: var(--gray-10);
+	padding: 20px 0;
+}
