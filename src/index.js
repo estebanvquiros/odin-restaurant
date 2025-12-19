@@ -1,3 +1,7 @@
-import "./styles.css";
+import "./styles/reset.css";
+import "./styles/global.css";
+import loadHomePage from "./home/home";
 
-console.log("Hello, World!");
+loadHomePage();
+
+

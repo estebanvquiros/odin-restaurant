@@ -1,0 +1,29 @@
+.home-container {
+	display: grid;
+	grid-template: 1fr 1fr 1fr / 2fr 1fr;
+	column-gap: 100px;
+	align-items: center;
+}
+
+.home-container > img {
+	grid-row: 1 / 4;
+	grid-column: 2 / 3;
+	align-self: center;
+}
+
+.home-container > h2 {
+	font-size: 5rem;
+	color: var(--orange-7);
+}
+
+.home-container > p {
+	font-size: 2.5rem;
+	color: var(--gray-10);
+	font-family: "Albert Sans", sans-serif;
+	font-weight: bold;
+}
+
+.home-container > button {
+	justify-self: start;
+	font-size: 2rem;
+}
