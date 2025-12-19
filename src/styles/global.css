@@ -44,7 +44,7 @@ header {
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
-	padding: 20px 60px;
+	padding: 20px 90px;
 }
 
 header > h1 {
@@ -60,13 +60,22 @@ nav {
 	gap: 20px;
 }
 
+.button,
 .nav-button {
-	color: var(--orange-0);
 	border: 0;
 	border-radius: 500px;
-	background-color: var(--gray-8);
 	font-size: 1.5rem;
 	padding: 5px 25px;
+}
+
+.button {
+	background-color: var(--orange-6);
+	color: var(--gray-0);
+}
+
+.nav-button {
+	color: var(--orange-0);
+	background-color: var(--gray-8);
 }
 
 .nav-button:hover {
@@ -75,7 +84,11 @@ nav {
 }
 
 .content {
+	padding: 0 90px;
 	flex: 1;
+	display: flex;
+	align-items: center;
+	justify-content: center;
 }
 
 footer {
