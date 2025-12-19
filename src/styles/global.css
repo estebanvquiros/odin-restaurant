@@ -30,6 +30,7 @@
 
 body {
 	font-family: "Germania One", sans-serif;
+	color: var(--gray-12);
 }
 
 .container {
