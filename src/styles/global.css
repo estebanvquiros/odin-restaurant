@@ -84,6 +84,10 @@ nav {
 	cursor: pointer;
 }
 
+.nav-button.active {
+	background-color: var(--orange-8);
+}
+
 .content {
 	padding: 60px 90px;
 	flex: 1;
