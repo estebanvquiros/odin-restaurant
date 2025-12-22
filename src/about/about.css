@@ -1,0 +1,33 @@
+.about-container {
+	display: grid;
+	grid-template: auto / auto 2fr;
+	gap: 50px;
+	align-items: center;
+}
+
+.about-container > img {
+	width: 30rem;
+}
+
+.about-body {
+	display: flex;
+	flex-direction: column;
+	gap: 30px;
+}
+
+.about-body > h2 {
+	font-size: 5rem;
+}
+
+.about-body > p {
+	font-size: 1.5rem;
+	font-family: "Albert Sans", sans-serif;
+	font-weight: 500;
+}
+
+.about-body p:last-child {
+	color: var(--orange-7);
+	font-family: "Germania One", sans-serif;
+	font-weight: bold;
+	font-size: 2.5rem;
+}
