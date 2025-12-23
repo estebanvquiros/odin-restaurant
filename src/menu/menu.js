@@ -1,18 +1,18 @@
 import "./menu.css";
 
-import valhallaPepperoni from "../assets/images/valhalla-pepperoni.png";
-import thorsHammer from "../assets/images/thors-hammer.png";
-import freyjasGarden from "../assets/images/pizza-banner.png";
-import odinsEye from "../assets/images/odins-eye.png";
-import midgardClassig from "../assets/images/midgard-classic.png";
-import lokisTrick from "../assets/images/lokis-trick.png";
-import fenrirFeast from "../assets/images/fenrir-feast.png";
-import asgartSupreme from "../assets/images/asgard-supreme.png";
-import bifrostBianca from "../assets/images/bifrost-bianca.png";
-import njordsBounty from "../assets/images/njords-bounty.png";
-import athenasGrove from "../assets/images/athenas-grove.png";
+import valhallaPepperoni from "../assets/images/valhalla-pepperoni.webp";
+import thorsHammer from "../assets/images/thors-hammer.webp";
+import freyjasGarden from "../assets/images/pizza-banner.webp";
+import odinsEye from "../assets/images/odins-eye.webp";
+import midgardClassig from "../assets/images/midgard-classic.webp";
+import lokisTrick from "../assets/images/lokis-trick.webp";
+import fenrirFeast from "../assets/images/fenrir-feast.webp";
+import asgartSupreme from "../assets/images/asgard-supreme.webp";
+import bifrostBianca from "../assets/images/bifrost-bianca.webp";
+import njordsBounty from "../assets/images/njords-bounty.webp";
+import athenasGrove from "../assets/images/athenas-grove.webp";
 
-import ragnarok from "../assets/images/ragnarok.png";
+import ragnarok from "../assets/images/ragnarok.webp";
 
 const menuItems = [
 	{

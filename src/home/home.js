@@ -1,5 +1,5 @@
 import "./home.css";
-import pizzaBanner from "../assets/images/pizza-banner.png";
+import pizzaBanner from "../assets/images/pizza-banner.webp";
 
 export default function loadHomePage() {
 	//DOM Cache
