@@ -1,11 +1,12 @@
 .home-container {
 	display: grid;
-	grid-template: 1fr 1fr 1fr / 2fr 1fr;
+	grid-template: auto auto auto / 2fr auto;
 	column-gap: 100px;
 	align-items: center;
 }
 
 .home-container > img {
+	width: 40rem;
 	grid-row: 1 / 4;
 	grid-column: 2 / 3;
 	align-self: center;

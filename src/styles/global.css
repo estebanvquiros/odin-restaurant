@@ -28,6 +28,10 @@
 	--gray-12: #030507;
 }
 
+html {
+	font-size: 12px;
+}
+
 body {
 	font-family: "Germania One", sans-serif;
 	color: var(--gray-12);
