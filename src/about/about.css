@@ -1,4 +1,5 @@
 .about-container {
+	max-width: 1440px;
 	display: grid;
 	grid-template: auto / auto 2fr;
 	gap: 50px;

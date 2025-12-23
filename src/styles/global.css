@@ -46,13 +46,18 @@ body {
 
 header {
 	background-color: var(--orange-4);
-	display: flex;
-	align-items: center;
-	justify-content: space-between;
 	padding: 20px 90px;
 }
 
-header > h1 {
+.header-content {
+	margin: auto;
+	max-width: 1440px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.header-content > h1 {
 	font-family: "Caesar Dressing", system-ui;
 	color: var(--gray-8);
 	font-size: 3rem;
