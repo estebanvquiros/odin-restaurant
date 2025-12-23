@@ -170,123 +170,123 @@ module.exports = __webpack_require__.p + "fb58dcb3ef9988e3a550.jpg";
 
 /***/ },
 
-/***/ "./src/assets/images/asgard-supreme.png"
-/*!**********************************************!*\
-  !*** ./src/assets/images/asgard-supreme.png ***!
-  \**********************************************/
-(module, __unused_webpack_exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "da17c3cf3c4075e276c5.png";
-
-/***/ },
-
-/***/ "./src/assets/images/athenas-grove.png"
-/*!*********************************************!*\
-  !*** ./src/assets/images/athenas-grove.png ***!
-  \*********************************************/
-(module, __unused_webpack_exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "a6f1f83c29cf6e72b9d2.png";
-
-/***/ },
-
-/***/ "./src/assets/images/bifrost-bianca.png"
-/*!**********************************************!*\
-  !*** ./src/assets/images/bifrost-bianca.png ***!
-  \**********************************************/
-(module, __unused_webpack_exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "93df7c46b5ab6a6738ed.png";
-
-/***/ },
-
-/***/ "./src/assets/images/fenrir-feast.png"
-/*!********************************************!*\
-  !*** ./src/assets/images/fenrir-feast.png ***!
-  \********************************************/
-(module, __unused_webpack_exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "039100a259c6804603f4.png";
-
-/***/ },
-
-/***/ "./src/assets/images/lokis-trick.png"
-/*!*******************************************!*\
-  !*** ./src/assets/images/lokis-trick.png ***!
-  \*******************************************/
-(module, __unused_webpack_exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "2e3711c5c4420fd37eb3.png";
-
-/***/ },
-
-/***/ "./src/assets/images/midgard-classic.png"
+/***/ "./src/assets/images/asgard-supreme.webp"
 /*!***********************************************!*\
-  !*** ./src/assets/images/midgard-classic.png ***!
+  !*** ./src/assets/images/asgard-supreme.webp ***!
   \***********************************************/
 (module, __unused_webpack_exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "adfb466dc3be4a5453ab.png";
+module.exports = __webpack_require__.p + "d79f29a54fa420bc1134.webp";
 
 /***/ },
 
-/***/ "./src/assets/images/njords-bounty.png"
+/***/ "./src/assets/images/athenas-grove.webp"
+/*!**********************************************!*\
+  !*** ./src/assets/images/athenas-grove.webp ***!
+  \**********************************************/
+(module, __unused_webpack_exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "8bda14cd7e178d73101e.webp";
+
+/***/ },
+
+/***/ "./src/assets/images/bifrost-bianca.webp"
+/*!***********************************************!*\
+  !*** ./src/assets/images/bifrost-bianca.webp ***!
+  \***********************************************/
+(module, __unused_webpack_exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "511245c7505b0fa402cd.webp";
+
+/***/ },
+
+/***/ "./src/assets/images/fenrir-feast.webp"
 /*!*********************************************!*\
-  !*** ./src/assets/images/njords-bounty.png ***!
+  !*** ./src/assets/images/fenrir-feast.webp ***!
   \*********************************************/
 (module, __unused_webpack_exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "5d0d0c8a53d2f89b5be9.png";
+module.exports = __webpack_require__.p + "5291af15b6b428161121.webp";
 
 /***/ },
 
-/***/ "./src/assets/images/odins-eye.png"
+/***/ "./src/assets/images/lokis-trick.webp"
+/*!********************************************!*\
+  !*** ./src/assets/images/lokis-trick.webp ***!
+  \********************************************/
+(module, __unused_webpack_exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "fc40adf969d4f5b99acf.webp";
+
+/***/ },
+
+/***/ "./src/assets/images/midgard-classic.webp"
+/*!************************************************!*\
+  !*** ./src/assets/images/midgard-classic.webp ***!
+  \************************************************/
+(module, __unused_webpack_exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "3188268c73cd07e35111.webp";
+
+/***/ },
+
+/***/ "./src/assets/images/njords-bounty.webp"
+/*!**********************************************!*\
+  !*** ./src/assets/images/njords-bounty.webp ***!
+  \**********************************************/
+(module, __unused_webpack_exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "0d2809f48dc9e826ced0.webp";
+
+/***/ },
+
+/***/ "./src/assets/images/odins-eye.webp"
+/*!******************************************!*\
+  !*** ./src/assets/images/odins-eye.webp ***!
+  \******************************************/
+(module, __unused_webpack_exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "688a2e6f26aeed0be47f.webp";
+
+/***/ },
+
+/***/ "./src/assets/images/pizza-banner.webp"
+/*!*********************************************!*\
+  !*** ./src/assets/images/pizza-banner.webp ***!
+  \*********************************************/
+(module, __unused_webpack_exports, __webpack_require__) {
+
+module.exports = __webpack_require__.p + "f5909c4b89dd3b2f9b7c.webp";
+
+/***/ },
+
+/***/ "./src/assets/images/ragnarok.webp"
 /*!*****************************************!*\
-  !*** ./src/assets/images/odins-eye.png ***!
+  !*** ./src/assets/images/ragnarok.webp ***!
   \*****************************************/
 (module, __unused_webpack_exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "782fc742c9144278e733.png";
+module.exports = __webpack_require__.p + "07f6cc7a9d17d92d18d6.webp";
 
 /***/ },
 
-/***/ "./src/assets/images/pizza-banner.png"
-/*!********************************************!*\
-  !*** ./src/assets/images/pizza-banner.png ***!
-  \********************************************/
+/***/ "./src/assets/images/thors-hammer.webp"
+/*!*********************************************!*\
+  !*** ./src/assets/images/thors-hammer.webp ***!
+  \*********************************************/
 (module, __unused_webpack_exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "c9cf5066a7692be68026.png";
+module.exports = __webpack_require__.p + "7a25231a1e55e7fc4dcd.webp";
 
 /***/ },
 
-/***/ "./src/assets/images/ragnarok.png"
-/*!****************************************!*\
-  !*** ./src/assets/images/ragnarok.png ***!
-  \****************************************/
+/***/ "./src/assets/images/valhalla-pepperoni.webp"
+/*!***************************************************!*\
+  !*** ./src/assets/images/valhalla-pepperoni.webp ***!
+  \***************************************************/
 (module, __unused_webpack_exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "fa6567c1adb4719d2916.png";
-
-/***/ },
-
-/***/ "./src/assets/images/thors-hammer.png"
-/*!********************************************!*\
-  !*** ./src/assets/images/thors-hammer.png ***!
-  \********************************************/
-(module, __unused_webpack_exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "cfe0dad500ec093546e8.png";
-
-/***/ },
-
-/***/ "./src/assets/images/valhalla-pepperoni.png"
-/*!**************************************************!*\
-  !*** ./src/assets/images/valhalla-pepperoni.png ***!
-  \**************************************************/
-(module, __unused_webpack_exports, __webpack_require__) {
-
-module.exports = __webpack_require__.p + "6da513a9bfc7ea28bf27.png";
+module.exports = __webpack_require__.p + "7fd710e39bbb17bcfbfd.webp";
 
 /***/ },
 
@@ -306,7 +306,7 @@ eval("{__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpa
   \**************************/
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
-eval("{__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ loadHomePage)\n/* harmony export */ });\n/* harmony import */ var _home_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./home.css */ \"./src/home/home.css\");\n/* harmony import */ var _assets_images_pizza_banner_png__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../assets/images/pizza-banner.png */ \"./src/assets/images/pizza-banner.png\");\n\n\n\nfunction loadHomePage() {\n\t//DOM Cache\n\tconst content = document.querySelector(\".content\");\n\n\tconst homeContent = document.createElement(\"div\");\n\thomeContent.classList.add(\"home-container\");\n\n\tconst title = document.createElement(\"h2\");\n\n\ttitle.textContent = \"Pizza worthy of the gods\";\n\n\tconst banner = document.createElement(\"img\");\n\tbanner.setAttribute(\"src\", _assets_images_pizza_banner_png__WEBPACK_IMPORTED_MODULE_1__);\n\n\tconst hero = document.createElement(\"p\");\n\thero.textContent =\n\t\t\"Forged in fire and patience, each pizza is crafted with slow-fermented dough, bold ingredients, and fearless flavor. This is not a meal. It’s a feast.\";\n\n\tconst orderNowButton = document.createElement(\"button\");\n\torderNowButton.classList.add(\"button\");\n\torderNowButton.textContent = \"Order Now!\";\n\n\thomeContent.appendChild(title);\n\thomeContent.appendChild(banner);\n\thomeContent.appendChild(hero);\n\thomeContent.appendChild(orderNowButton);\n\n\tcontent.appendChild(homeContent);\n}\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9zcmMvaG9tZS9ob21lLmpzIiwibWFwcGluZ3MiOiI7Ozs7OztBQUFvQjtBQUN3Qzs7QUFFN0M7QUFDZjtBQUNBOztBQUVBO0FBQ0E7O0FBRUE7O0FBRUE7O0FBRUE7QUFDQSw0QkFBNEIsNERBQVc7O0FBRXZDO0FBQ0E7QUFDQTs7QUFFQTtBQUNBO0FBQ0E7O0FBRUE7QUFDQTtBQUNBO0FBQ0E7O0FBRUE7QUFDQSIsInNvdXJjZXMiOlsid2VicGFjazovL29kaW4tcmVzdGF1cmFudC8uL3NyYy9ob21lL2hvbWUuanM/YjAxOSJdLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgXCIuL2hvbWUuY3NzXCI7XG5pbXBvcnQgcGl6emFCYW5uZXIgZnJvbSBcIi4uL2Fzc2V0cy9pbWFnZXMvcGl6emEtYmFubmVyLnBuZ1wiO1xuXG5leHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBsb2FkSG9tZVBhZ2UoKSB7XG5cdC8vRE9NIENhY2hlXG5cdGNvbnN0IGNvbnRlbnQgPSBkb2N1bWVudC5xdWVyeVNlbGVjdG9yKFwiLmNvbnRlbnRcIik7XG5cblx0Y29uc3QgaG9tZUNvbnRlbnQgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KFwiZGl2XCIpO1xuXHRob21lQ29udGVudC5jbGFzc0xpc3QuYWRkKFwiaG9tZS1jb250YWluZXJcIik7XG5cblx0Y29uc3QgdGl0bGUgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KFwiaDJcIik7XG5cblx0dGl0bGUudGV4dENvbnRlbnQgPSBcIlBpenphIHdvcnRoeSBvZiB0aGUgZ29kc1wiO1xuXG5cdGNvbnN0IGJhbm5lciA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoXCJpbWdcIik7XG5cdGJhbm5lci5zZXRBdHRyaWJ1dGUoXCJzcmNcIiwgcGl6emFCYW5uZXIpO1xuXG5cdGNvbnN0IGhlcm8gPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KFwicFwiKTtcblx0aGVyby50ZXh0Q29udGVudCA9XG5cdFx0XCJGb3JnZWQgaW4gZmlyZSBhbmQgcGF0aWVuY2UsIGVhY2ggcGl6emEgaXMgY3JhZnRlZCB3aXRoIHNsb3ctZmVybWVudGVkIGRvdWdoLCBib2xkIGluZ3JlZGllbnRzLCBhbmQgZmVhcmxlc3MgZmxhdm9yLiBUaGlzIGlzIG5vdCBhIG1lYWwuIEl04oCZcyBhIGZlYXN0LlwiO1xuXG5cdGNvbnN0IG9yZGVyTm93QnV0dG9uID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudChcImJ1dHRvblwiKTtcblx0b3JkZXJOb3dCdXR0b24uY2xhc3NMaXN0LmFkZChcImJ1dHRvblwiKTtcblx0b3JkZXJOb3dCdXR0b24udGV4dENvbnRlbnQgPSBcIk9yZGVyIE5vdyFcIjtcblxuXHRob21lQ29udGVudC5hcHBlbmRDaGlsZCh0aXRsZSk7XG5cdGhvbWVDb250ZW50LmFwcGVuZENoaWxkKGJhbm5lcik7XG5cdGhvbWVDb250ZW50LmFwcGVuZENoaWxkKGhlcm8pO1xuXHRob21lQ29udGVudC5hcHBlbmRDaGlsZChvcmRlck5vd0J1dHRvbik7XG5cblx0Y29udGVudC5hcHBlbmRDaGlsZChob21lQ29udGVudCk7XG59XG4iXSwibmFtZXMiOltdLCJpZ25vcmVMaXN0IjpbXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./src/home/home.js\n\n}");
+eval("{__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ loadHomePage)\n/* harmony export */ });\n/* harmony import */ var _home_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./home.css */ \"./src/home/home.css\");\n/* harmony import */ var _assets_images_pizza_banner_webp__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../assets/images/pizza-banner.webp */ \"./src/assets/images/pizza-banner.webp\");\n\n\n\nfunction loadHomePage() {\n\t//DOM Cache\n\tconst content = document.querySelector(\".content\");\n\n\tconst homeContent = document.createElement(\"div\");\n\thomeContent.classList.add(\"home-container\");\n\n\tconst title = document.createElement(\"h2\");\n\n\ttitle.textContent = \"Pizza worthy of the gods\";\n\n\tconst banner = document.createElement(\"img\");\n\tbanner.setAttribute(\"src\", _assets_images_pizza_banner_webp__WEBPACK_IMPORTED_MODULE_1__);\n\n\tconst hero = document.createElement(\"p\");\n\thero.textContent =\n\t\t\"Forged in fire and patience, each pizza is crafted with slow-fermented dough, bold ingredients, and fearless flavor. This is not a meal. It’s a feast.\";\n\n\tconst orderNowButton = document.createElement(\"button\");\n\torderNowButton.classList.add(\"button\");\n\torderNowButton.textContent = \"Order Now!\";\n\n\thomeContent.appendChild(title);\n\thomeContent.appendChild(banner);\n\thomeContent.appendChild(hero);\n\thomeContent.appendChild(orderNowButton);\n\n\tcontent.appendChild(homeContent);\n}\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9zcmMvaG9tZS9ob21lLmpzIiwibWFwcGluZ3MiOiI7Ozs7OztBQUFvQjtBQUN5Qzs7QUFFOUM7QUFDZjtBQUNBOztBQUVBO0FBQ0E7O0FBRUE7O0FBRUE7O0FBRUE7QUFDQSw0QkFBNEIsNkRBQVc7O0FBRXZDO0FBQ0E7QUFDQTs7QUFFQTtBQUNBO0FBQ0E7O0FBRUE7QUFDQTtBQUNBO0FBQ0E7O0FBRUE7QUFDQSIsInNvdXJjZXMiOlsid2VicGFjazovL29kaW4tcmVzdGF1cmFudC8uL3NyYy9ob21lL2hvbWUuanM/YjAxOSJdLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgXCIuL2hvbWUuY3NzXCI7XG5pbXBvcnQgcGl6emFCYW5uZXIgZnJvbSBcIi4uL2Fzc2V0cy9pbWFnZXMvcGl6emEtYmFubmVyLndlYnBcIjtcblxuZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gbG9hZEhvbWVQYWdlKCkge1xuXHQvL0RPTSBDYWNoZVxuXHRjb25zdCBjb250ZW50ID0gZG9jdW1lbnQucXVlcnlTZWxlY3RvcihcIi5jb250ZW50XCIpO1xuXG5cdGNvbnN0IGhvbWVDb250ZW50ID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudChcImRpdlwiKTtcblx0aG9tZUNvbnRlbnQuY2xhc3NMaXN0LmFkZChcImhvbWUtY29udGFpbmVyXCIpO1xuXG5cdGNvbnN0IHRpdGxlID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudChcImgyXCIpO1xuXG5cdHRpdGxlLnRleHRDb250ZW50ID0gXCJQaXp6YSB3b3J0aHkgb2YgdGhlIGdvZHNcIjtcblxuXHRjb25zdCBiYW5uZXIgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KFwiaW1nXCIpO1xuXHRiYW5uZXIuc2V0QXR0cmlidXRlKFwic3JjXCIsIHBpenphQmFubmVyKTtcblxuXHRjb25zdCBoZXJvID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudChcInBcIik7XG5cdGhlcm8udGV4dENvbnRlbnQgPVxuXHRcdFwiRm9yZ2VkIGluIGZpcmUgYW5kIHBhdGllbmNlLCBlYWNoIHBpenphIGlzIGNyYWZ0ZWQgd2l0aCBzbG93LWZlcm1lbnRlZCBkb3VnaCwgYm9sZCBpbmdyZWRpZW50cywgYW5kIGZlYXJsZXNzIGZsYXZvci4gVGhpcyBpcyBub3QgYSBtZWFsLiBJdOKAmXMgYSBmZWFzdC5cIjtcblxuXHRjb25zdCBvcmRlck5vd0J1dHRvbiA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoXCJidXR0b25cIik7XG5cdG9yZGVyTm93QnV0dG9uLmNsYXNzTGlzdC5hZGQoXCJidXR0b25cIik7XG5cdG9yZGVyTm93QnV0dG9uLnRleHRDb250ZW50ID0gXCJPcmRlciBOb3chXCI7XG5cblx0aG9tZUNvbnRlbnQuYXBwZW5kQ2hpbGQodGl0bGUpO1xuXHRob21lQ29udGVudC5hcHBlbmRDaGlsZChiYW5uZXIpO1xuXHRob21lQ29udGVudC5hcHBlbmRDaGlsZChoZXJvKTtcblx0aG9tZUNvbnRlbnQuYXBwZW5kQ2hpbGQob3JkZXJOb3dCdXR0b24pO1xuXG5cdGNvbnRlbnQuYXBwZW5kQ2hpbGQoaG9tZUNvbnRlbnQpO1xufVxuIl0sIm5hbWVzIjpbXSwiaWdub3JlTGlzdCI6W10sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./src/home/home.js\n\n}");
 
 /***/ },
 
@@ -336,7 +336,7 @@ eval("{__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpa
   \**************************/
 (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
 
-eval("{__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ loadMenu)\n/* harmony export */ });\n/* harmony import */ var _menu_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./menu.css */ \"./src/menu/menu.css\");\n/* harmony import */ var _assets_images_valhalla_pepperoni_png__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../assets/images/valhalla-pepperoni.png */ \"./src/assets/images/valhalla-pepperoni.png\");\n/* harmony import */ var _assets_images_thors_hammer_png__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../assets/images/thors-hammer.png */ \"./src/assets/images/thors-hammer.png\");\n/* harmony import */ var _assets_images_pizza_banner_png__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../assets/images/pizza-banner.png */ \"./src/assets/images/pizza-banner.png\");\n/* harmony import */ var _assets_images_odins_eye_png__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../assets/images/odins-eye.png */ \"./src/assets/images/odins-eye.png\");\n/* harmony import */ var _assets_images_midgard_classic_png__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../assets/images/midgard-classic.png */ \"./src/assets/images/midgard-classic.png\");\n/* harmony import */ var _assets_images_lokis_trick_png__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../assets/images/lokis-trick.png */ \"./src/assets/images/lokis-trick.png\");\n/* harmony import */ var _assets_images_fenrir_feast_png__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../assets/images/fenrir-feast.png */ \"./src/assets/images/fenrir-feast.png\");\n/* harmony import */ var _assets_images_asgard_supreme_png__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../assets/images/asgard-supreme.png */ \"./src/assets/images/asgard-supreme.png\");\n/* harmony import */ var _assets_images_bifrost_bianca_png__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ../assets/images/bifrost-bianca.png */ \"./src/assets/images/bifrost-bianca.png\");\n/* harmony import */ var _assets_images_njords_bounty_png__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ../assets/images/njords-bounty.png */ \"./src/assets/images/njords-bounty.png\");\n/* harmony import */ var _assets_images_athenas_grove_png__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ../assets/images/athenas-grove.png */ \"./src/assets/images/athenas-grove.png\");\n/* harmony import */ var _assets_images_ragnarok_png__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ../assets/images/ragnarok.png */ \"./src/assets/images/ragnarok.png\");\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nconst menuItems = [\n\t{\n\t\tphoto: _assets_images_valhalla_pepperoni_png__WEBPACK_IMPORTED_MODULE_1__,\n\t\tname: \"Valhalla Pepperoni\",\n\t\tdescription: \"Classic pepperoni, fire-baked, unapologetic.\",\n\t\tprice: 15,\n\t},\n\t{\n\t\tphoto: _assets_images_thors_hammer_png__WEBPACK_IMPORTED_MODULE_2__,\n\t\tname: \"Thor’s Hammer\",\n\t\tdescription: \"Smoked meats, roasted garlic, and thunder.\",\n\t\tprice: 35,\n\t},\n\t{\n\t\tphoto: _assets_images_pizza_banner_png__WEBPACK_IMPORTED_MODULE_3__,\n\t\tname: \"Freyja’s Garden\",\n\t\tdescription: \"Seasonal vegetables, herbs, and olive oil.\",\n\t\tprice: 15,\n\t},\n\t{\n\t\tphoto: _assets_images_odins_eye_png__WEBPACK_IMPORTED_MODULE_4__,\n\t\tname: \"Odin’s Eye\",\n\t\tdescription:\n\t\t\t\"San Marzano tomatoes, fresh mozzarella, basil, and olive oil.\",\n\t\tprice: 25,\n\t},\n\t{\n\t\tphoto: _assets_images_lokis_trick_png__WEBPACK_IMPORTED_MODULE_6__,\n\t\tname: \"Loki’s Trick\",\n\t\tdescription: \"Sweet heat with chili honey, pepperoni, and ricotta.\",\n\t\tprice: 15,\n\t},\n\t{\n\t\tphoto: _assets_images_midgard_classic_png__WEBPACK_IMPORTED_MODULE_5__,\n\t\tname: \"Midgard Classic\",\n\t\tdescription: \"Mozzarella, tomato sauce, and a perfectly crisp crust.\",\n\t\tprice: 25,\n\t},\n\t{\n\t\tphoto: _assets_images_ragnarok_png__WEBPACK_IMPORTED_MODULE_12__,\n\t\tname: \"Ragnarök\",\n\t\tdescription: \"Spicy sausage, fire-roasted peppers, and molten cheese.\",\n\t\tprice: 35,\n\t},\n\t{\n\t\tphoto: _assets_images_fenrir_feast_png__WEBPACK_IMPORTED_MODULE_7__,\n\t\tname: \"Fenrir Feast\",\n\t\tdescription: \"Pulled pork, smoked bacon, and caramelized onions.\",\n\t\tprice: 25,\n\t},\n\t{\n\t\tphoto: _assets_images_bifrost_bianca_png__WEBPACK_IMPORTED_MODULE_9__,\n\t\tname: \"Bifrost Bianca\",\n\t\tdescription: \"White sauce, mozzarella, garlic, and herbs.\",\n\t\tprice: 15,\n\t},\n\t{\n\t\tphoto: _assets_images_asgard_supreme_png__WEBPACK_IMPORTED_MODULE_8__,\n\t\tname: \"Asgard Supreme\",\n\t\tdescription: \"Pepperoni, sausage, mushrooms, onions, and olives.\",\n\t\tprice: 15,\n\t},\n\t{\n\t\tphoto: _assets_images_njords_bounty_png__WEBPACK_IMPORTED_MODULE_10__,\n\t\tname: \"Njord’s Bounty\",\n\t\tdescription:\n\t\t\t\"Fire-roasted shrimp, garlic butter, fresh herbs, and lemon.\",\n\t\tprice: 35,\n\t},\n\t{\n\t\tphoto: _assets_images_athenas_grove_png__WEBPACK_IMPORTED_MODULE_11__,\n\t\tname: \"Athena’s Grove\",\n\t\tdescription: \"Fresh spinach, black olives, mozzarella, and olive oil.\",\n\t\tprice: 15,\n\t},\n];\n\nfunction loadMenu() {\n\tconst content = document.querySelector(\".content\");\n\n\tconst menuContainer = document.createElement(\"div\");\n\tmenuContainer.classList.add(\"menu-container\");\n\n\tconst title = document.createElement(\"h2\");\n\ttitle.textContent = \"Eat Like a God\";\n\n\tconst menuDescription = document.createElement(\"p\");\n\tmenuDescription.textContent =\n\t\t'\"The ovens burn, the feast stands ready, and only the bold will claim a slice worthy of legend.\"';\n\n\tconst menu = document.createElement(\"div\");\n\tmenu.classList.add(\"menu\");\n\n\tmenuItems.forEach((pizza) => {\n\t\tconst pizzaContainer = document.createElement(\"div\");\n\t\tpizzaContainer.classList.add(\"pizza-container\");\n\n\t\tconst pizzaPhoto = document.createElement(\"img\");\n\t\tpizzaPhoto.setAttribute(\"src\", pizza.photo);\n\t\tpizzaPhoto.classList.add(\"pizza-photo\");\n\n\t\tconst pizzaName = document.createElement(\"h3\");\n\t\tpizzaName.textContent = pizza.name;\n\t\tpizzaName.classList.add(\"pizza-name\");\n\n\t\tconst pizzaPrice = document.createElement(\"p\");\n\t\tpizzaPrice.textContent = `$${pizza.price}`;\n\t\tpizzaPrice.classList.add(\"pizza-price\");\n\n\t\tconst pizzaDescription = document.createElement(\"p\");\n\t\tpizzaDescription.textContent = pizza.description;\n\t\tpizzaDescription.classList.add(\"pizza-description\");\n\n\t\tconst orderNowButton = document.createElement(\"button\");\n\t\torderNowButton.textContent = \"Order Now!\";\n\t\torderNowButton.classList.add(\"button\");\n\n\t\tpizzaContainer.appendChild(pizzaPhoto);\n\t\tpizzaContainer.appendChild(pizzaName);\n\t\tpizzaContainer.appendChild(pizzaPrice);\n\t\tpizzaContainer.appendChild(pizzaDescription);\n\t\tpizzaContainer.appendChild(orderNowButton);\n\n\t\tmenu.appendChild(pizzaContainer);\n\t});\n\n\tmenuContainer.appendChild(title);\n\tmenuContainer.appendChild(menuDescription);\n\tmenuContainer.appendChild(menu);\n\n\tcontent.appendChild(menuContainer);\n}\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9zcmMvbWVudS9tZW51LmpzIiwibWFwcGluZ3MiOiI7Ozs7Ozs7Ozs7Ozs7Ozs7O0FBQW9COztBQUVvRDtBQUNaO0FBQ0U7QUFDUjtBQUNZO0FBQ1I7QUFDRTtBQUNJO0FBQ0E7QUFDRjtBQUNBOztBQUVUOztBQUVyRDtBQUNBO0FBQ0EsU0FBUyxrRUFBaUI7QUFDMUI7QUFDQTtBQUNBO0FBQ0EsRUFBRTtBQUNGO0FBQ0EsU0FBUyw0REFBVztBQUNwQjtBQUNBO0FBQ0E7QUFDQSxFQUFFO0FBQ0Y7QUFDQSxTQUFTLDREQUFhO0FBQ3RCO0FBQ0E7QUFDQTtBQUNBLEVBQUU7QUFDRjtBQUNBLFNBQVMseURBQVE7QUFDakI7QUFDQTtBQUNBO0FBQ0E7QUFDQSxFQUFFO0FBQ0Y7QUFDQSxTQUFTLDJEQUFVO0FBQ25CO0FBQ0E7QUFDQTtBQUNBLEVBQUU7QUFDRjtBQUNBLFNBQVMsK0RBQWM7QUFDdkI7QUFDQTtBQUNBO0FBQ0EsRUFBRTtBQUNGO0FBQ0EsU0FBUyx5REFBUTtBQUNqQjtBQUNBO0FBQ0E7QUFDQSxFQUFFO0FBQ0Y7QUFDQSxTQUFTLDREQUFXO0FBQ3BCO0FBQ0E7QUFDQTtBQUNBLEVBQUU7QUFDRjtBQUNBLFNBQVMsOERBQWE7QUFDdEI7QUFDQTtBQUNBO0FBQ0EsRUFBRTtBQUNGO0FBQ0EsU0FBUyw4REFBYTtBQUN0QjtBQUNBO0FBQ0E7QUFDQSxFQUFFO0FBQ0Y7QUFDQSxTQUFTLDhEQUFZO0FBQ3JCO0FBQ0E7QUFDQTtBQUNBO0FBQ0EsRUFBRTtBQUNGO0FBQ0EsU0FBUyw4REFBWTtBQUNyQjtBQUNBO0FBQ0E7QUFDQSxFQUFFO0FBQ0Y7O0FBRWU7QUFDZjs7QUFFQTtBQUNBOztBQUVBO0FBQ0E7O0FBRUE7QUFDQTtBQUNBOztBQUVBO0FBQ0E7O0FBRUE7QUFDQTtBQUNBOztBQUVBO0FBQ0E7QUFDQTs7QUFFQTtBQUNBO0FBQ0E7O0FBRUE7QUFDQSwrQkFBK0IsWUFBWTtBQUMzQzs7QUFFQTtBQUNBO0FBQ0E7O0FBRUE7QUFDQTtBQUNBOztBQUVBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7O0FBRUE7QUFDQSxFQUFFOztBQUVGO0FBQ0E7QUFDQTs7QUFFQTtBQUNBIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vb2Rpbi1yZXN0YXVyYW50Ly4vc3JjL21lbnUvbWVudS5qcz81OGYyIl0sInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBcIi4vbWVudS5jc3NcIjtcblxuaW1wb3J0IHZhbGhhbGxhUGVwcGVyb25pIGZyb20gXCIuLi9hc3NldHMvaW1hZ2VzL3ZhbGhhbGxhLXBlcHBlcm9uaS5wbmdcIjtcbmltcG9ydCB0aG9yc0hhbW1lciBmcm9tIFwiLi4vYXNzZXRzL2ltYWdlcy90aG9ycy1oYW1tZXIucG5nXCI7XG5pbXBvcnQgZnJleWphc0dhcmRlbiBmcm9tIFwiLi4vYXNzZXRzL2ltYWdlcy9waXp6YS1iYW5uZXIucG5nXCI7XG5pbXBvcnQgb2RpbnNFeWUgZnJvbSBcIi4uL2Fzc2V0cy9pbWFnZXMvb2RpbnMtZXllLnBuZ1wiO1xuaW1wb3J0IG1pZGdhcmRDbGFzc2lnIGZyb20gXCIuLi9hc3NldHMvaW1hZ2VzL21pZGdhcmQtY2xhc3NpYy5wbmdcIjtcbmltcG9ydCBsb2tpc1RyaWNrIGZyb20gXCIuLi9hc3NldHMvaW1hZ2VzL2xva2lzLXRyaWNrLnBuZ1wiO1xuaW1wb3J0IGZlbnJpckZlYXN0IGZyb20gXCIuLi9hc3NldHMvaW1hZ2VzL2ZlbnJpci1mZWFzdC5wbmdcIjtcbmltcG9ydCBhc2dhcnRTdXByZW1lIGZyb20gXCIuLi9hc3NldHMvaW1hZ2VzL2FzZ2FyZC1zdXByZW1lLnBuZ1wiO1xuaW1wb3J0IGJpZnJvc3RCaWFuY2EgZnJvbSBcIi4uL2Fzc2V0cy9pbWFnZXMvYmlmcm9zdC1iaWFuY2EucG5nXCI7XG5pbXBvcnQgbmpvcmRzQm91bnR5IGZyb20gXCIuLi9hc3NldHMvaW1hZ2VzL25qb3Jkcy1ib3VudHkucG5nXCI7XG5pbXBvcnQgYXRoZW5hc0dyb3ZlIGZyb20gXCIuLi9hc3NldHMvaW1hZ2VzL2F0aGVuYXMtZ3JvdmUucG5nXCI7XG5cbmltcG9ydCByYWduYXJvayBmcm9tIFwiLi4vYXNzZXRzL2ltYWdlcy9yYWduYXJvay5wbmdcIjtcblxuY29uc3QgbWVudUl0ZW1zID0gW1xuXHR7XG5cdFx0cGhvdG86IHZhbGhhbGxhUGVwcGVyb25pLFxuXHRcdG5hbWU6IFwiVmFsaGFsbGEgUGVwcGVyb25pXCIsXG5cdFx0ZGVzY3JpcHRpb246IFwiQ2xhc3NpYyBwZXBwZXJvbmksIGZpcmUtYmFrZWQsIHVuYXBvbG9nZXRpYy5cIixcblx0XHRwcmljZTogMTUsXG5cdH0sXG5cdHtcblx0XHRwaG90bzogdGhvcnNIYW1tZXIsXG5cdFx0bmFtZTogXCJUaG9y4oCZcyBIYW1tZXJcIixcblx0XHRkZXNjcmlwdGlvbjogXCJTbW9rZWQgbWVhdHMsIHJvYXN0ZWQgZ2FybGljLCBhbmQgdGh1bmRlci5cIixcblx0XHRwcmljZTogMzUsXG5cdH0sXG5cdHtcblx0XHRwaG90bzogZnJleWphc0dhcmRlbixcblx0XHRuYW1lOiBcIkZyZXlqYeKAmXMgR2FyZGVuXCIsXG5cdFx0ZGVzY3JpcHRpb246IFwiU2Vhc29uYWwgdmVnZXRhYmxlcywgaGVyYnMsIGFuZCBvbGl2ZSBvaWwuXCIsXG5cdFx0cHJpY2U6IDE1LFxuXHR9LFxuXHR7XG5cdFx0cGhvdG86IG9kaW5zRXllLFxuXHRcdG5hbWU6IFwiT2RpbuKAmXMgRXllXCIsXG5cdFx0ZGVzY3JpcHRpb246XG5cdFx0XHRcIlNhbiBNYXJ6YW5vIHRvbWF0b2VzLCBmcmVzaCBtb3p6YXJlbGxhLCBiYXNpbCwgYW5kIG9saXZlIG9pbC5cIixcblx0XHRwcmljZTogMjUsXG5cdH0sXG5cdHtcblx0XHRwaG90bzogbG9raXNUcmljayxcblx0XHRuYW1lOiBcIkxva2nigJlzIFRyaWNrXCIsXG5cdFx0ZGVzY3JpcHRpb246IFwiU3dlZXQgaGVhdCB3aXRoIGNoaWxpIGhvbmV5LCBwZXBwZXJvbmksIGFuZCByaWNvdHRhLlwiLFxuXHRcdHByaWNlOiAxNSxcblx0fSxcblx0e1xuXHRcdHBob3RvOiBtaWRnYXJkQ2xhc3NpZyxcblx0XHRuYW1lOiBcIk1pZGdhcmQgQ2xhc3NpY1wiLFxuXHRcdGRlc2NyaXB0aW9uOiBcIk1venphcmVsbGEsIHRvbWF0byBzYXVjZSwgYW5kIGEgcGVyZmVjdGx5IGNyaXNwIGNydXN0LlwiLFxuXHRcdHByaWNlOiAyNSxcblx0fSxcblx0e1xuXHRcdHBob3RvOiByYWduYXJvayxcblx0XHRuYW1lOiBcIlJhZ25hcsO2a1wiLFxuXHRcdGRlc2NyaXB0aW9uOiBcIlNwaWN5IHNhdXNhZ2UsIGZpcmUtcm9hc3RlZCBwZXBwZXJzLCBhbmQgbW9sdGVuIGNoZWVzZS5cIixcblx0XHRwcmljZTogMzUsXG5cdH0sXG5cdHtcblx0XHRwaG90bzogZmVucmlyRmVhc3QsXG5cdFx0bmFtZTogXCJGZW5yaXIgRmVhc3RcIixcblx0XHRkZXNjcmlwdGlvbjogXCJQdWxsZWQgcG9yaywgc21va2VkIGJhY29uLCBhbmQgY2FyYW1lbGl6ZWQgb25pb25zLlwiLFxuXHRcdHByaWNlOiAyNSxcblx0fSxcblx0e1xuXHRcdHBob3RvOiBiaWZyb3N0QmlhbmNhLFxuXHRcdG5hbWU6IFwiQmlmcm9zdCBCaWFuY2FcIixcblx0XHRkZXNjcmlwdGlvbjogXCJXaGl0ZSBzYXVjZSwgbW96emFyZWxsYSwgZ2FybGljLCBhbmQgaGVyYnMuXCIsXG5cdFx0cHJpY2U6IDE1LFxuXHR9LFxuXHR7XG5cdFx0cGhvdG86IGFzZ2FydFN1cHJlbWUsXG5cdFx0bmFtZTogXCJBc2dhcmQgU3VwcmVtZVwiLFxuXHRcdGRlc2NyaXB0aW9uOiBcIlBlcHBlcm9uaSwgc2F1c2FnZSwgbXVzaHJvb21zLCBvbmlvbnMsIGFuZCBvbGl2ZXMuXCIsXG5cdFx0cHJpY2U6IDE1LFxuXHR9LFxuXHR7XG5cdFx0cGhvdG86IG5qb3Jkc0JvdW50eSxcblx0XHRuYW1lOiBcIk5qb3Jk4oCZcyBCb3VudHlcIixcblx0XHRkZXNjcmlwdGlvbjpcblx0XHRcdFwiRmlyZS1yb2FzdGVkIHNocmltcCwgZ2FybGljIGJ1dHRlciwgZnJlc2ggaGVyYnMsIGFuZCBsZW1vbi5cIixcblx0XHRwcmljZTogMzUsXG5cdH0sXG5cdHtcblx0XHRwaG90bzogYXRoZW5hc0dyb3ZlLFxuXHRcdG5hbWU6IFwiQXRoZW5h4oCZcyBHcm92ZVwiLFxuXHRcdGRlc2NyaXB0aW9uOiBcIkZyZXNoIHNwaW5hY2gsIGJsYWNrIG9saXZlcywgbW96emFyZWxsYSwgYW5kIG9saXZlIG9pbC5cIixcblx0XHRwcmljZTogMTUsXG5cdH0sXG5dO1xuXG5leHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBsb2FkTWVudSgpIHtcblx0Y29uc3QgY29udGVudCA9IGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoXCIuY29udGVudFwiKTtcblxuXHRjb25zdCBtZW51Q29udGFpbmVyID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudChcImRpdlwiKTtcblx0bWVudUNvbnRhaW5lci5jbGFzc0xpc3QuYWRkKFwibWVudS1jb250YWluZXJcIik7XG5cblx0Y29uc3QgdGl0bGUgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KFwiaDJcIik7XG5cdHRpdGxlLnRleHRDb250ZW50ID0gXCJFYXQgTGlrZSBhIEdvZFwiO1xuXG5cdGNvbnN0IG1lbnVEZXNjcmlwdGlvbiA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoXCJwXCIpO1xuXHRtZW51RGVzY3JpcHRpb24udGV4dENvbnRlbnQgPVxuXHRcdCdcIlRoZSBvdmVucyBidXJuLCB0aGUgZmVhc3Qgc3RhbmRzIHJlYWR5LCBhbmQgb25seSB0aGUgYm9sZCB3aWxsIGNsYWltIGEgc2xpY2Ugd29ydGh5IG9mIGxlZ2VuZC5cIic7XG5cblx0Y29uc3QgbWVudSA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoXCJkaXZcIik7XG5cdG1lbnUuY2xhc3NMaXN0LmFkZChcIm1lbnVcIik7XG5cblx0bWVudUl0ZW1zLmZvckVhY2goKHBpenphKSA9PiB7XG5cdFx0Y29uc3QgcGl6emFDb250YWluZXIgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KFwiZGl2XCIpO1xuXHRcdHBpenphQ29udGFpbmVyLmNsYXNzTGlzdC5hZGQoXCJwaXp6YS1jb250YWluZXJcIik7XG5cblx0XHRjb25zdCBwaXp6YVBob3RvID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudChcImltZ1wiKTtcblx0XHRwaXp6YVBob3RvLnNldEF0dHJpYnV0ZShcInNyY1wiLCBwaXp6YS5waG90byk7XG5cdFx0cGl6emFQaG90by5jbGFzc0xpc3QuYWRkKFwicGl6emEtcGhvdG9cIik7XG5cblx0XHRjb25zdCBwaXp6YU5hbWUgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KFwiaDNcIik7XG5cdFx0cGl6emFOYW1lLnRleHRDb250ZW50ID0gcGl6emEubmFtZTtcblx0XHRwaXp6YU5hbWUuY2xhc3NMaXN0LmFkZChcInBpenphLW5hbWVcIik7XG5cblx0XHRjb25zdCBwaXp6YVByaWNlID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudChcInBcIik7XG5cdFx0cGl6emFQcmljZS50ZXh0Q29udGVudCA9IGAkJHtwaXp6YS5wcmljZX1gO1xuXHRcdHBpenphUHJpY2UuY2xhc3NMaXN0LmFkZChcInBpenphLXByaWNlXCIpO1xuXG5cdFx0Y29uc3QgcGl6emFEZXNjcmlwdGlvbiA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoXCJwXCIpO1xuXHRcdHBpenphRGVzY3JpcHRpb24udGV4dENvbnRlbnQgPSBwaXp6YS5kZXNjcmlwdGlvbjtcblx0XHRwaXp6YURlc2NyaXB0aW9uLmNsYXNzTGlzdC5hZGQoXCJwaXp6YS1kZXNjcmlwdGlvblwiKTtcblxuXHRcdGNvbnN0IG9yZGVyTm93QnV0dG9uID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudChcImJ1dHRvblwiKTtcblx0XHRvcmRlck5vd0J1dHRvbi50ZXh0Q29udGVudCA9IFwiT3JkZXIgTm93IVwiO1xuXHRcdG9yZGVyTm93QnV0dG9uLmNsYXNzTGlzdC5hZGQoXCJidXR0b25cIik7XG5cblx0XHRwaXp6YUNvbnRhaW5lci5hcHBlbmRDaGlsZChwaXp6YVBob3RvKTtcblx0XHRwaXp6YUNvbnRhaW5lci5hcHBlbmRDaGlsZChwaXp6YU5hbWUpO1xuXHRcdHBpenphQ29udGFpbmVyLmFwcGVuZENoaWxkKHBpenphUHJpY2UpO1xuXHRcdHBpenphQ29udGFpbmVyLmFwcGVuZENoaWxkKHBpenphRGVzY3JpcHRpb24pO1xuXHRcdHBpenphQ29udGFpbmVyLmFwcGVuZENoaWxkKG9yZGVyTm93QnV0dG9uKTtcblxuXHRcdG1lbnUuYXBwZW5kQ2hpbGQocGl6emFDb250YWluZXIpO1xuXHR9KTtcblxuXHRtZW51Q29udGFpbmVyLmFwcGVuZENoaWxkKHRpdGxlKTtcblx0bWVudUNvbnRhaW5lci5hcHBlbmRDaGlsZChtZW51RGVzY3JpcHRpb24pO1xuXHRtZW51Q29udGFpbmVyLmFwcGVuZENoaWxkKG1lbnUpO1xuXG5cdGNvbnRlbnQuYXBwZW5kQ2hpbGQobWVudUNvbnRhaW5lcik7XG59XG4iXSwibmFtZXMiOltdLCJpZ25vcmVMaXN0IjpbXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./src/menu/menu.js\n\n}");
+eval("{__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ loadMenu)\n/* harmony export */ });\n/* harmony import */ var _menu_css__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./menu.css */ \"./src/menu/menu.css\");\n/* harmony import */ var _assets_images_valhalla_pepperoni_webp__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../assets/images/valhalla-pepperoni.webp */ \"./src/assets/images/valhalla-pepperoni.webp\");\n/* harmony import */ var _assets_images_thors_hammer_webp__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ../assets/images/thors-hammer.webp */ \"./src/assets/images/thors-hammer.webp\");\n/* harmony import */ var _assets_images_pizza_banner_webp__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ../assets/images/pizza-banner.webp */ \"./src/assets/images/pizza-banner.webp\");\n/* harmony import */ var _assets_images_odins_eye_webp__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ../assets/images/odins-eye.webp */ \"./src/assets/images/odins-eye.webp\");\n/* harmony import */ var _assets_images_midgard_classic_webp__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../assets/images/midgard-classic.webp */ \"./src/assets/images/midgard-classic.webp\");\n/* harmony import */ var _assets_images_lokis_trick_webp__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../assets/images/lokis-trick.webp */ \"./src/assets/images/lokis-trick.webp\");\n/* harmony import */ var _assets_images_fenrir_feast_webp__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../assets/images/fenrir-feast.webp */ \"./src/assets/images/fenrir-feast.webp\");\n/* harmony import */ var _assets_images_asgard_supreme_webp__WEBPACK_IMPORTED_MODULE_8__ = __webpack_require__(/*! ../assets/images/asgard-supreme.webp */ \"./src/assets/images/asgard-supreme.webp\");\n/* harmony import */ var _assets_images_bifrost_bianca_webp__WEBPACK_IMPORTED_MODULE_9__ = __webpack_require__(/*! ../assets/images/bifrost-bianca.webp */ \"./src/assets/images/bifrost-bianca.webp\");\n/* harmony import */ var _assets_images_njords_bounty_webp__WEBPACK_IMPORTED_MODULE_10__ = __webpack_require__(/*! ../assets/images/njords-bounty.webp */ \"./src/assets/images/njords-bounty.webp\");\n/* harmony import */ var _assets_images_athenas_grove_webp__WEBPACK_IMPORTED_MODULE_11__ = __webpack_require__(/*! ../assets/images/athenas-grove.webp */ \"./src/assets/images/athenas-grove.webp\");\n/* harmony import */ var _assets_images_ragnarok_webp__WEBPACK_IMPORTED_MODULE_12__ = __webpack_require__(/*! ../assets/images/ragnarok.webp */ \"./src/assets/images/ragnarok.webp\");\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nconst menuItems = [\n\t{\n\t\tphoto: _assets_images_valhalla_pepperoni_webp__WEBPACK_IMPORTED_MODULE_1__,\n\t\tname: \"Valhalla Pepperoni\",\n\t\tdescription: \"Classic pepperoni, fire-baked, unapologetic.\",\n\t\tprice: 15,\n\t},\n\t{\n\t\tphoto: _assets_images_thors_hammer_webp__WEBPACK_IMPORTED_MODULE_2__,\n\t\tname: \"Thor’s Hammer\",\n\t\tdescription: \"Smoked meats, roasted garlic, and thunder.\",\n\t\tprice: 35,\n\t},\n\t{\n\t\tphoto: _assets_images_pizza_banner_webp__WEBPACK_IMPORTED_MODULE_3__,\n\t\tname: \"Freyja’s Garden\",\n\t\tdescription: \"Seasonal vegetables, herbs, and olive oil.\",\n\t\tprice: 15,\n\t},\n\t{\n\t\tphoto: _assets_images_odins_eye_webp__WEBPACK_IMPORTED_MODULE_4__,\n\t\tname: \"Odin’s Eye\",\n\t\tdescription:\n\t\t\t\"San Marzano tomatoes, fresh mozzarella, basil, and olive oil.\",\n\t\tprice: 25,\n\t},\n\t{\n\t\tphoto: _assets_images_lokis_trick_webp__WEBPACK_IMPORTED_MODULE_6__,\n\t\tname: \"Loki’s Trick\",\n\t\tdescription: \"Sweet heat with chili honey, pepperoni, and ricotta.\",\n\t\tprice: 15,\n\t},\n\t{\n\t\tphoto: _assets_images_midgard_classic_webp__WEBPACK_IMPORTED_MODULE_5__,\n\t\tname: \"Midgard Classic\",\n\t\tdescription: \"Mozzarella, tomato sauce, and a perfectly crisp crust.\",\n\t\tprice: 25,\n\t},\n\t{\n\t\tphoto: _assets_images_ragnarok_webp__WEBPACK_IMPORTED_MODULE_12__,\n\t\tname: \"Ragnarök\",\n\t\tdescription: \"Spicy sausage, fire-roasted peppers, and molten cheese.\",\n\t\tprice: 35,\n\t},\n\t{\n\t\tphoto: _assets_images_fenrir_feast_webp__WEBPACK_IMPORTED_MODULE_7__,\n\t\tname: \"Fenrir Feast\",\n\t\tdescription: \"Pulled pork, smoked bacon, and caramelized onions.\",\n\t\tprice: 25,\n\t},\n\t{\n\t\tphoto: _assets_images_bifrost_bianca_webp__WEBPACK_IMPORTED_MODULE_9__,\n\t\tname: \"Bifrost Bianca\",\n\t\tdescription: \"White sauce, mozzarella, garlic, and herbs.\",\n\t\tprice: 15,\n\t},\n\t{\n\t\tphoto: _assets_images_asgard_supreme_webp__WEBPACK_IMPORTED_MODULE_8__,\n\t\tname: \"Asgard Supreme\",\n\t\tdescription: \"Pepperoni, sausage, mushrooms, onions, and olives.\",\n\t\tprice: 15,\n\t},\n\t{\n\t\tphoto: _assets_images_njords_bounty_webp__WEBPACK_IMPORTED_MODULE_10__,\n\t\tname: \"Njord’s Bounty\",\n\t\tdescription:\n\t\t\t\"Fire-roasted shrimp, garlic butter, fresh herbs, and lemon.\",\n\t\tprice: 35,\n\t},\n\t{\n\t\tphoto: _assets_images_athenas_grove_webp__WEBPACK_IMPORTED_MODULE_11__,\n\t\tname: \"Athena’s Grove\",\n\t\tdescription: \"Fresh spinach, black olives, mozzarella, and olive oil.\",\n\t\tprice: 15,\n\t},\n];\n\nfunction loadMenu() {\n\tconst content = document.querySelector(\".content\");\n\n\tconst menuContainer = document.createElement(\"div\");\n\tmenuContainer.classList.add(\"menu-container\");\n\n\tconst title = document.createElement(\"h2\");\n\ttitle.textContent = \"Eat Like a God\";\n\n\tconst menuDescription = document.createElement(\"p\");\n\tmenuDescription.textContent =\n\t\t'\"The ovens burn, the feast stands ready, and only the bold will claim a slice worthy of legend.\"';\n\n\tconst menu = document.createElement(\"div\");\n\tmenu.classList.add(\"menu\");\n\n\tmenuItems.forEach((pizza) => {\n\t\tconst pizzaContainer = document.createElement(\"div\");\n\t\tpizzaContainer.classList.add(\"pizza-container\");\n\n\t\tconst pizzaPhoto = document.createElement(\"img\");\n\t\tpizzaPhoto.setAttribute(\"src\", pizza.photo);\n\t\tpizzaPhoto.classList.add(\"pizza-photo\");\n\n\t\tconst pizzaName = document.createElement(\"h3\");\n\t\tpizzaName.textContent = pizza.name;\n\t\tpizzaName.classList.add(\"pizza-name\");\n\n\t\tconst pizzaPrice = document.createElement(\"p\");\n\t\tpizzaPrice.textContent = `$${pizza.price}`;\n\t\tpizzaPrice.classList.add(\"pizza-price\");\n\n\t\tconst pizzaDescription = document.createElement(\"p\");\n\t\tpizzaDescription.textContent = pizza.description;\n\t\tpizzaDescription.classList.add(\"pizza-description\");\n\n\t\tconst orderNowButton = document.createElement(\"button\");\n\t\torderNowButton.textContent = \"Order Now!\";\n\t\torderNowButton.classList.add(\"button\");\n\n\t\tpizzaContainer.appendChild(pizzaPhoto);\n\t\tpizzaContainer.appendChild(pizzaName);\n\t\tpizzaContainer.appendChild(pizzaPrice);\n\t\tpizzaContainer.appendChild(pizzaDescription);\n\t\tpizzaContainer.appendChild(orderNowButton);\n\n\t\tmenu.appendChild(pizzaContainer);\n\t});\n\n\tmenuContainer.appendChild(title);\n\tmenuContainer.appendChild(menuDescription);\n\tmenuContainer.appendChild(menu);\n\n\tcontent.appendChild(menuContainer);\n}\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9zcmMvbWVudS9tZW51LmpzIiwibWFwcGluZ3MiOiI7Ozs7Ozs7Ozs7Ozs7Ozs7O0FBQW9COztBQUVxRDtBQUNaO0FBQ0U7QUFDUjtBQUNZO0FBQ1I7QUFDRTtBQUNJO0FBQ0E7QUFDRjtBQUNBOztBQUVUOztBQUV0RDtBQUNBO0FBQ0EsU0FBUyxtRUFBaUI7QUFDMUI7QUFDQTtBQUNBO0FBQ0EsRUFBRTtBQUNGO0FBQ0EsU0FBUyw2REFBVztBQUNwQjtBQUNBO0FBQ0E7QUFDQSxFQUFFO0FBQ0Y7QUFDQSxTQUFTLDZEQUFhO0FBQ3RCO0FBQ0E7QUFDQTtBQUNBLEVBQUU7QUFDRjtBQUNBLFNBQVMsMERBQVE7QUFDakI7QUFDQTtBQUNBO0FBQ0E7QUFDQSxFQUFFO0FBQ0Y7QUFDQSxTQUFTLDREQUFVO0FBQ25CO0FBQ0E7QUFDQTtBQUNBLEVBQUU7QUFDRjtBQUNBLFNBQVMsZ0VBQWM7QUFDdkI7QUFDQTtBQUNBO0FBQ0EsRUFBRTtBQUNGO0FBQ0EsU0FBUywwREFBUTtBQUNqQjtBQUNBO0FBQ0E7QUFDQSxFQUFFO0FBQ0Y7QUFDQSxTQUFTLDZEQUFXO0FBQ3BCO0FBQ0E7QUFDQTtBQUNBLEVBQUU7QUFDRjtBQUNBLFNBQVMsK0RBQWE7QUFDdEI7QUFDQTtBQUNBO0FBQ0EsRUFBRTtBQUNGO0FBQ0EsU0FBUywrREFBYTtBQUN0QjtBQUNBO0FBQ0E7QUFDQSxFQUFFO0FBQ0Y7QUFDQSxTQUFTLCtEQUFZO0FBQ3JCO0FBQ0E7QUFDQTtBQUNBO0FBQ0EsRUFBRTtBQUNGO0FBQ0EsU0FBUywrREFBWTtBQUNyQjtBQUNBO0FBQ0E7QUFDQSxFQUFFO0FBQ0Y7O0FBRWU7QUFDZjs7QUFFQTtBQUNBOztBQUVBO0FBQ0E7O0FBRUE7QUFDQTtBQUNBOztBQUVBO0FBQ0E7O0FBRUE7QUFDQTtBQUNBOztBQUVBO0FBQ0E7QUFDQTs7QUFFQTtBQUNBO0FBQ0E7O0FBRUE7QUFDQSwrQkFBK0IsWUFBWTtBQUMzQzs7QUFFQTtBQUNBO0FBQ0E7O0FBRUE7QUFDQTtBQUNBOztBQUVBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7O0FBRUE7QUFDQSxFQUFFOztBQUVGO0FBQ0E7QUFDQTs7QUFFQTtBQUNBIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vb2Rpbi1yZXN0YXVyYW50Ly4vc3JjL21lbnUvbWVudS5qcz81OGYyIl0sInNvdXJjZXNDb250ZW50IjpbImltcG9ydCBcIi4vbWVudS5jc3NcIjtcblxuaW1wb3J0IHZhbGhhbGxhUGVwcGVyb25pIGZyb20gXCIuLi9hc3NldHMvaW1hZ2VzL3ZhbGhhbGxhLXBlcHBlcm9uaS53ZWJwXCI7XG5pbXBvcnQgdGhvcnNIYW1tZXIgZnJvbSBcIi4uL2Fzc2V0cy9pbWFnZXMvdGhvcnMtaGFtbWVyLndlYnBcIjtcbmltcG9ydCBmcmV5amFzR2FyZGVuIGZyb20gXCIuLi9hc3NldHMvaW1hZ2VzL3BpenphLWJhbm5lci53ZWJwXCI7XG5pbXBvcnQgb2RpbnNFeWUgZnJvbSBcIi4uL2Fzc2V0cy9pbWFnZXMvb2RpbnMtZXllLndlYnBcIjtcbmltcG9ydCBtaWRnYXJkQ2xhc3NpZyBmcm9tIFwiLi4vYXNzZXRzL2ltYWdlcy9taWRnYXJkLWNsYXNzaWMud2VicFwiO1xuaW1wb3J0IGxva2lzVHJpY2sgZnJvbSBcIi4uL2Fzc2V0cy9pbWFnZXMvbG9raXMtdHJpY2sud2VicFwiO1xuaW1wb3J0IGZlbnJpckZlYXN0IGZyb20gXCIuLi9hc3NldHMvaW1hZ2VzL2ZlbnJpci1mZWFzdC53ZWJwXCI7XG5pbXBvcnQgYXNnYXJ0U3VwcmVtZSBmcm9tIFwiLi4vYXNzZXRzL2ltYWdlcy9hc2dhcmQtc3VwcmVtZS53ZWJwXCI7XG5pbXBvcnQgYmlmcm9zdEJpYW5jYSBmcm9tIFwiLi4vYXNzZXRzL2ltYWdlcy9iaWZyb3N0LWJpYW5jYS53ZWJwXCI7XG5pbXBvcnQgbmpvcmRzQm91bnR5IGZyb20gXCIuLi9hc3NldHMvaW1hZ2VzL25qb3Jkcy1ib3VudHkud2VicFwiO1xuaW1wb3J0IGF0aGVuYXNHcm92ZSBmcm9tIFwiLi4vYXNzZXRzL2ltYWdlcy9hdGhlbmFzLWdyb3ZlLndlYnBcIjtcblxuaW1wb3J0IHJhZ25hcm9rIGZyb20gXCIuLi9hc3NldHMvaW1hZ2VzL3JhZ25hcm9rLndlYnBcIjtcblxuY29uc3QgbWVudUl0ZW1zID0gW1xuXHR7XG5cdFx0cGhvdG86IHZhbGhhbGxhUGVwcGVyb25pLFxuXHRcdG5hbWU6IFwiVmFsaGFsbGEgUGVwcGVyb25pXCIsXG5cdFx0ZGVzY3JpcHRpb246IFwiQ2xhc3NpYyBwZXBwZXJvbmksIGZpcmUtYmFrZWQsIHVuYXBvbG9nZXRpYy5cIixcblx0XHRwcmljZTogMTUsXG5cdH0sXG5cdHtcblx0XHRwaG90bzogdGhvcnNIYW1tZXIsXG5cdFx0bmFtZTogXCJUaG9y4oCZcyBIYW1tZXJcIixcblx0XHRkZXNjcmlwdGlvbjogXCJTbW9rZWQgbWVhdHMsIHJvYXN0ZWQgZ2FybGljLCBhbmQgdGh1bmRlci5cIixcblx0XHRwcmljZTogMzUsXG5cdH0sXG5cdHtcblx0XHRwaG90bzogZnJleWphc0dhcmRlbixcblx0XHRuYW1lOiBcIkZyZXlqYeKAmXMgR2FyZGVuXCIsXG5cdFx0ZGVzY3JpcHRpb246IFwiU2Vhc29uYWwgdmVnZXRhYmxlcywgaGVyYnMsIGFuZCBvbGl2ZSBvaWwuXCIsXG5cdFx0cHJpY2U6IDE1LFxuXHR9LFxuXHR7XG5cdFx0cGhvdG86IG9kaW5zRXllLFxuXHRcdG5hbWU6IFwiT2RpbuKAmXMgRXllXCIsXG5cdFx0ZGVzY3JpcHRpb246XG5cdFx0XHRcIlNhbiBNYXJ6YW5vIHRvbWF0b2VzLCBmcmVzaCBtb3p6YXJlbGxhLCBiYXNpbCwgYW5kIG9saXZlIG9pbC5cIixcblx0XHRwcmljZTogMjUsXG5cdH0sXG5cdHtcblx0XHRwaG90bzogbG9raXNUcmljayxcblx0XHRuYW1lOiBcIkxva2nigJlzIFRyaWNrXCIsXG5cdFx0ZGVzY3JpcHRpb246IFwiU3dlZXQgaGVhdCB3aXRoIGNoaWxpIGhvbmV5LCBwZXBwZXJvbmksIGFuZCByaWNvdHRhLlwiLFxuXHRcdHByaWNlOiAxNSxcblx0fSxcblx0e1xuXHRcdHBob3RvOiBtaWRnYXJkQ2xhc3NpZyxcblx0XHRuYW1lOiBcIk1pZGdhcmQgQ2xhc3NpY1wiLFxuXHRcdGRlc2NyaXB0aW9uOiBcIk1venphcmVsbGEsIHRvbWF0byBzYXVjZSwgYW5kIGEgcGVyZmVjdGx5IGNyaXNwIGNydXN0LlwiLFxuXHRcdHByaWNlOiAyNSxcblx0fSxcblx0e1xuXHRcdHBob3RvOiByYWduYXJvayxcblx0XHRuYW1lOiBcIlJhZ25hcsO2a1wiLFxuXHRcdGRlc2NyaXB0aW9uOiBcIlNwaWN5IHNhdXNhZ2UsIGZpcmUtcm9hc3RlZCBwZXBwZXJzLCBhbmQgbW9sdGVuIGNoZWVzZS5cIixcblx0XHRwcmljZTogMzUsXG5cdH0sXG5cdHtcblx0XHRwaG90bzogZmVucmlyRmVhc3QsXG5cdFx0bmFtZTogXCJGZW5yaXIgRmVhc3RcIixcblx0XHRkZXNjcmlwdGlvbjogXCJQdWxsZWQgcG9yaywgc21va2VkIGJhY29uLCBhbmQgY2FyYW1lbGl6ZWQgb25pb25zLlwiLFxuXHRcdHByaWNlOiAyNSxcblx0fSxcblx0e1xuXHRcdHBob3RvOiBiaWZyb3N0QmlhbmNhLFxuXHRcdG5hbWU6IFwiQmlmcm9zdCBCaWFuY2FcIixcblx0XHRkZXNjcmlwdGlvbjogXCJXaGl0ZSBzYXVjZSwgbW96emFyZWxsYSwgZ2FybGljLCBhbmQgaGVyYnMuXCIsXG5cdFx0cHJpY2U6IDE1LFxuXHR9LFxuXHR7XG5cdFx0cGhvdG86IGFzZ2FydFN1cHJlbWUsXG5cdFx0bmFtZTogXCJBc2dhcmQgU3VwcmVtZVwiLFxuXHRcdGRlc2NyaXB0aW9uOiBcIlBlcHBlcm9uaSwgc2F1c2FnZSwgbXVzaHJvb21zLCBvbmlvbnMsIGFuZCBvbGl2ZXMuXCIsXG5cdFx0cHJpY2U6IDE1LFxuXHR9LFxuXHR7XG5cdFx0cGhvdG86IG5qb3Jkc0JvdW50eSxcblx0XHRuYW1lOiBcIk5qb3Jk4oCZcyBCb3VudHlcIixcblx0XHRkZXNjcmlwdGlvbjpcblx0XHRcdFwiRmlyZS1yb2FzdGVkIHNocmltcCwgZ2FybGljIGJ1dHRlciwgZnJlc2ggaGVyYnMsIGFuZCBsZW1vbi5cIixcblx0XHRwcmljZTogMzUsXG5cdH0sXG5cdHtcblx0XHRwaG90bzogYXRoZW5hc0dyb3ZlLFxuXHRcdG5hbWU6IFwiQXRoZW5h4oCZcyBHcm92ZVwiLFxuXHRcdGRlc2NyaXB0aW9uOiBcIkZyZXNoIHNwaW5hY2gsIGJsYWNrIG9saXZlcywgbW96emFyZWxsYSwgYW5kIG9saXZlIG9pbC5cIixcblx0XHRwcmljZTogMTUsXG5cdH0sXG5dO1xuXG5leHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBsb2FkTWVudSgpIHtcblx0Y29uc3QgY29udGVudCA9IGRvY3VtZW50LnF1ZXJ5U2VsZWN0b3IoXCIuY29udGVudFwiKTtcblxuXHRjb25zdCBtZW51Q29udGFpbmVyID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudChcImRpdlwiKTtcblx0bWVudUNvbnRhaW5lci5jbGFzc0xpc3QuYWRkKFwibWVudS1jb250YWluZXJcIik7XG5cblx0Y29uc3QgdGl0bGUgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KFwiaDJcIik7XG5cdHRpdGxlLnRleHRDb250ZW50ID0gXCJFYXQgTGlrZSBhIEdvZFwiO1xuXG5cdGNvbnN0IG1lbnVEZXNjcmlwdGlvbiA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoXCJwXCIpO1xuXHRtZW51RGVzY3JpcHRpb24udGV4dENvbnRlbnQgPVxuXHRcdCdcIlRoZSBvdmVucyBidXJuLCB0aGUgZmVhc3Qgc3RhbmRzIHJlYWR5LCBhbmQgb25seSB0aGUgYm9sZCB3aWxsIGNsYWltIGEgc2xpY2Ugd29ydGh5IG9mIGxlZ2VuZC5cIic7XG5cblx0Y29uc3QgbWVudSA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoXCJkaXZcIik7XG5cdG1lbnUuY2xhc3NMaXN0LmFkZChcIm1lbnVcIik7XG5cblx0bWVudUl0ZW1zLmZvckVhY2goKHBpenphKSA9PiB7XG5cdFx0Y29uc3QgcGl6emFDb250YWluZXIgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KFwiZGl2XCIpO1xuXHRcdHBpenphQ29udGFpbmVyLmNsYXNzTGlzdC5hZGQoXCJwaXp6YS1jb250YWluZXJcIik7XG5cblx0XHRjb25zdCBwaXp6YVBob3RvID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudChcImltZ1wiKTtcblx0XHRwaXp6YVBob3RvLnNldEF0dHJpYnV0ZShcInNyY1wiLCBwaXp6YS5waG90byk7XG5cdFx0cGl6emFQaG90by5jbGFzc0xpc3QuYWRkKFwicGl6emEtcGhvdG9cIik7XG5cblx0XHRjb25zdCBwaXp6YU5hbWUgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KFwiaDNcIik7XG5cdFx0cGl6emFOYW1lLnRleHRDb250ZW50ID0gcGl6emEubmFtZTtcblx0XHRwaXp6YU5hbWUuY2xhc3NMaXN0LmFkZChcInBpenphLW5hbWVcIik7XG5cblx0XHRjb25zdCBwaXp6YVByaWNlID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudChcInBcIik7XG5cdFx0cGl6emFQcmljZS50ZXh0Q29udGVudCA9IGAkJHtwaXp6YS5wcmljZX1gO1xuXHRcdHBpenphUHJpY2UuY2xhc3NMaXN0LmFkZChcInBpenphLXByaWNlXCIpO1xuXG5cdFx0Y29uc3QgcGl6emFEZXNjcmlwdGlvbiA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoXCJwXCIpO1xuXHRcdHBpenphRGVzY3JpcHRpb24udGV4dENvbnRlbnQgPSBwaXp6YS5kZXNjcmlwdGlvbjtcblx0XHRwaXp6YURlc2NyaXB0aW9uLmNsYXNzTGlzdC5hZGQoXCJwaXp6YS1kZXNjcmlwdGlvblwiKTtcblxuXHRcdGNvbnN0IG9yZGVyTm93QnV0dG9uID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudChcImJ1dHRvblwiKTtcblx0XHRvcmRlck5vd0J1dHRvbi50ZXh0Q29udGVudCA9IFwiT3JkZXIgTm93IVwiO1xuXHRcdG9yZGVyTm93QnV0dG9uLmNsYXNzTGlzdC5hZGQoXCJidXR0b25cIik7XG5cblx0XHRwaXp6YUNvbnRhaW5lci5hcHBlbmRDaGlsZChwaXp6YVBob3RvKTtcblx0XHRwaXp6YUNvbnRhaW5lci5hcHBlbmRDaGlsZChwaXp6YU5hbWUpO1xuXHRcdHBpenphQ29udGFpbmVyLmFwcGVuZENoaWxkKHBpenphUHJpY2UpO1xuXHRcdHBpenphQ29udGFpbmVyLmFwcGVuZENoaWxkKHBpenphRGVzY3JpcHRpb24pO1xuXHRcdHBpenphQ29udGFpbmVyLmFwcGVuZENoaWxkKG9yZGVyTm93QnV0dG9uKTtcblxuXHRcdG1lbnUuYXBwZW5kQ2hpbGQocGl6emFDb250YWluZXIpO1xuXHR9KTtcblxuXHRtZW51Q29udGFpbmVyLmFwcGVuZENoaWxkKHRpdGxlKTtcblx0bWVudUNvbnRhaW5lci5hcHBlbmRDaGlsZChtZW51RGVzY3JpcHRpb24pO1xuXHRtZW51Q29udGFpbmVyLmFwcGVuZENoaWxkKG1lbnUpO1xuXG5cdGNvbnRlbnQuYXBwZW5kQ2hpbGQobWVudUNvbnRhaW5lcik7XG59XG4iXSwibmFtZXMiOltdLCJpZ25vcmVMaXN0IjpbXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./src/menu/menu.js\n\n}");
 
 /***/ },
 
